@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Development/DigiGram-1/app/src/main/res/drawable/side_nav_bar.xml" value="0.14270833333333333" />
+        <entry key="..\:/Android Development/DigiGram-1/app/src/main/res/layout/activity_home_page.xml" value="0.1265625" />
+        <entry key="..\:/Android Development/DigiGram-1/app/src/main/res/layout/activity_registered_complaints.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Development/DigiGram-1/app/src/main/res/layout/admin_complaint_card.xml" value="0.264" />
         <entry key="..\:/AndroidWork/DigiGram2/app/src/main/res/layout/activity_admin_complaint.xml" value="0.1" />
         <entry key="..\:/AndroidWork/DigiGram2/app/src/main/res/layout/activity_complaint_department.xml" value="0.1" />
         <entry key="..\:/AndroidWork/DigiGram2/app/src/main/res/layout/activity_complaint_department_actiivty.xml" value="0.184375" />

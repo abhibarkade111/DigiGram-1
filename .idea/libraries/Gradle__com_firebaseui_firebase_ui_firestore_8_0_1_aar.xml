@@ -7,6 +7,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b4eaebcf9c851c5fb8cfd1894a375c98/transformed/jetified-firebase-ui-firestore-8.0.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b4eaebcf9c851c5fb8cfd1894a375c98/transformed/jetified-firebase-ui-firestore-8.0.1/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b4eaebcf9c851c5fb8cfd1894a375c98/transformed/jetified-firebase-ui-firestore-8.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2b677e660eeb0f8bb86b34af25acc322/transformed/jetified-firebase-ui-firestore-8.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2b677e660eeb0f8bb86b34af25acc322/transformed/jetified-firebase-ui-firestore-8.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2b677e660eeb0f8bb86b34af25acc322/transformed/jetified-firebase-ui-firestore-8.0.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../digigram/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-firestore/8.0.1/7ebed2e64cb43d0217ae8b437fb394786241110e/firebase-ui-firestore-8.0.1-javadoc.jar!/" />

@@ -38,20 +38,23 @@ public class RegisteredComplaintActivity extends AppCompatActivity {
         db = FirebaseFirestore.getInstance();
         String[] source={"1","2","3","4","5","6","7","8","9","10","11"};
         ArrayList<Map<String,String>> data = new ArrayList<>();
+        recyclerView = (RecyclerView) findViewById(R.id.view_list);
+        recyclerView.setLayoutManager(new LinearLayoutManager(this));
         db.collection("Complaints").get().addOnSuccessListener(new OnSuccessListener<QuerySnapshot>() {
             @Override
             public void onSuccess(QuerySnapshot queryDocumentSnapshots) {
                 if(!queryDocumentSnapshots.isEmpty()){
                     int id = 1;
                     List<DocumentSnapshot> arr = queryDocumentSnapshots.getDocuments();
-                    Map<String,String> map = new HashMap<>();
                     for(DocumentSnapshot db : arr){
+                        Map<String,String> map = new HashMap<>();
                         map.put("ID", ""+id);
-                        map.put("Category", "Category");
-                        map.put("Complaint", "Complaint");
-                        map.put("Date", db.getData().get("Data").toString());
+                        id++;
+                        map.put("Category", db.getData().get("Category").toString());
+                        map.put("Complaint", db.getData().get("Description").toString());
+                        map.put("Date", db.getData().get("Date").toString());
                         map.put("Status", db.getData().get("Status").toString());
-                        map.put("Ward", "123");
+                        map.put("Ward", db.getData().get("Address").toString());
                         Log.d("Print", db.getData().get("Status").toString());
                         Log.d("Print", db.getData().get("Department").toString());
 //                        Log.d("Print", db.getData().get("Complaint_Category").toString());
@@ -61,6 +64,11 @@ public class RegisteredComplaintActivity extends AppCompatActivity {
                         data.add(map);
 
                     }
+
+                    Log.d("Data",data.toString());
+
+                    adapter = new ComplaintAdapter(data);
+                    recyclerView.setAdapter(adapter);
                 }
             }
 
@@ -70,9 +78,6 @@ public class RegisteredComplaintActivity extends AppCompatActivity {
                 Log.d("Print", e.getMessage());
             }
         });
-        recyclerView = (RecyclerView) findViewById(R.id.view_list);
-        recyclerView.setLayoutManager(new LinearLayoutManager(this));
-        adapter = new ComplaintAdapter(source);
-        recyclerView.setAdapter(adapter);
+
     }
 }

@@ -7,6 +7,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3a2249dac84d980266a1db2e887ff08b/transformed/jetified-stepsview-0.0.2/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3a2249dac84d980266a1db2e887ff08b/transformed/jetified-stepsview-0.0.2/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3a2249dac84d980266a1db2e887ff08b/transformed/jetified-stepsview-0.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bbae487c86cfa0cb7678eaa9a375a301/transformed/jetified-stepsview-0.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bbae487c86cfa0cb7678eaa9a375a301/transformed/jetified-stepsview-0.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bbae487c86cfa0cb7678eaa9a375a301/transformed/jetified-stepsview-0.0.2/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../digigram/caches/modules-2/files-2.1/com.anton46/stepsview/0.0.2/f690e0da25bbdfcb0c3877ac7feb9b0c14e70cfb/stepsview-0.0.2-javadoc.jar!/" />

@@ -3,6 +3,7 @@
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/../digigram/caches/transforms-3/bdb8b52720a533522c562b4d120d5042/transformed/fragment-1.4.1/annotations.zip!/" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bdb8b52720a533522c562b4d120d5042/transformed/fragment-1.4.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5b092e600643ed241ca4a5b583eb14f1/transformed/fragment-1.4.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../digigram/caches/transforms-3/bdb8b52720a533522c562b4d120d5042/transformed/fragment-1.4.1/AndroidManifest.xml" />
@@ -11,6 +12,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bdb8b52720a533522c562b4d120d5042/transformed/fragment-1.4.1/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bdb8b52720a533522c562b4d120d5042/transformed/fragment-1.4.1/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bdb8b52720a533522c562b4d120d5042/transformed/fragment-1.4.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5b092e600643ed241ca4a5b583eb14f1/transformed/fragment-1.4.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5b092e600643ed241ca4a5b583eb14f1/transformed/fragment-1.4.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5b092e600643ed241ca4a5b583eb14f1/transformed/fragment-1.4.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

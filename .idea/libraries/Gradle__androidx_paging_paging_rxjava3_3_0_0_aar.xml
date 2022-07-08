@@ -7,6 +7,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/46016cf1da8ca58ba5369a8075917503/transformed/jetified-paging-rxjava3-3.0.0/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/46016cf1da8ca58ba5369a8075917503/transformed/jetified-paging-rxjava3-3.0.0/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/46016cf1da8ca58ba5369a8075917503/transformed/jetified-paging-rxjava3-3.0.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/12c0da64720b61a1b079bef240540a55/transformed/jetified-paging-rxjava3-3.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/12c0da64720b61a1b079bef240540a55/transformed/jetified-paging-rxjava3-3.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/12c0da64720b61a1b079bef240540a55/transformed/jetified-paging-rxjava3-3.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

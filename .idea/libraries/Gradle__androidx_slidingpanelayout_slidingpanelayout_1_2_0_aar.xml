@@ -3,6 +3,7 @@
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/../digigram/caches/transforms-3/91e33dc7ef6d29b9c51a2dd840d1f2fc/transformed/slidingpanelayout-1.2.0/annotations.zip!/" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/91e33dc7ef6d29b9c51a2dd840d1f2fc/transformed/slidingpanelayout-1.2.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/00ef0cda33b51ca1d1e558bef973a6aa/transformed/slidingpanelayout-1.2.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../digigram/caches/transforms-3/91e33dc7ef6d29b9c51a2dd840d1f2fc/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml" />
@@ -11,6 +12,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/91e33dc7ef6d29b9c51a2dd840d1f2fc/transformed/slidingpanelayout-1.2.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/91e33dc7ef6d29b9c51a2dd840d1f2fc/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/91e33dc7ef6d29b9c51a2dd840d1f2fc/transformed/slidingpanelayout-1.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/00ef0cda33b51ca1d1e558bef973a6aa/transformed/slidingpanelayout-1.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/00ef0cda33b51ca1d1e558bef973a6aa/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/00ef0cda33b51ca1d1e558bef973a6aa/transformed/slidingpanelayout-1.2.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

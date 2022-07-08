@@ -67,12 +67,12 @@ public class RegisterNewComplaint extends AppCompatActivity {
                 LocalVariables localVariables=new LocalVariables();
                 complaint.put("Username",localVariables.user_id);
                 //complaint.put("ComplaintID","1");
-                complaint.put("Complaint_Description",complaintdes);
-                complaint.put("Complaint_Address",complaintadd);
+                complaint.put("Description",complaintdes);
+                complaint.put("Address",complaintadd);
                 complaint.put("Date",date);
                 complaint.put("Department",spinner2.getSelectedItem().toString());
                 complaint.put("Status","Ongoing");
-                complaint.put("Complaint_Category",spinner.getSelectedItem().toString());
+                complaint.put("Category",spinner.getSelectedItem().toString());
 
                 db.collection("Complaints")
                         .add(complaint)
